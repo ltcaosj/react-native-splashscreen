@@ -1,5 +1,5 @@
 import { NativeModules } from 'react-native';
 
-const { LKSplashscreen } = NativeModules;
+const { LKSplashScreen } = NativeModules;
 
-export default LKSplashscreen;
+export default LKSplashScreen;
