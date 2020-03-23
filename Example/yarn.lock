@@ -978,10 +978,10 @@
     eslint-plugin-react-native "3.6.0"
     prettier "1.16.4"
 
-"@react-native-lightkits/splashscreen@1.0.3":
-  version "1.0.3"
-  resolved "https://npm.int10.net:443/@react-native-lightkits%2fsplashscreen/-/splashscreen-1.0.3.tgz#fb24a73aa13d8a306e03a237ac5697be8333acf2"
-  integrity sha512-7Z2Z6w8MZY2UH/NPMUAOAv3rC4KBtQCvXMC4wIgDgtMt/ckReEWsXlwj8j7Knb9+Z2C73MgOc7D18Fr0JKM/hg==
+"@react-native-lightkits/splashscreen@1.0.4":
+  version "1.0.4"
+  resolved "https://npm.int10.net:443/@react-native-lightkits%2fsplashscreen/-/splashscreen-1.0.4.tgz#bebb4fe8084571af8765d2323013de9db3ed63d2"
+  integrity sha512-xwOmgXBtfW8X6LvP7TwNy6T2YCkMXX3O5Z5wd0Tj5B2ugQ/mQ35/x8SM9pftaRjvH+EDOtcqdgKb7tohBpIg1A==
 
 "@types/babel__core@^7.1.0":
   version "7.1.6"
