@@ -1,7 +1,7 @@
 {
   "name": "@react-native-lightkits/splashscreen",
-  "title": "React Native Splashscreen",
-  "version": "1.0.0",
+  "title": "React Native Splash Screen",
+  "version": "1.0.2",
   "description": "TODO",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-splashscreen.git",
-    "baseUrl": "https://github.com/github_account/react-native-splashscreen"
+    "url": "git+https://github.com/github_account/react-native-splash-screen.git",
+    "baseUrl": "https://github.com/github_account/react-native-splash-screen"
   },
   "keywords": [
     "react-native"

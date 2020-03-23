@@ -2,13 +2,9 @@
 
 static RCTRootView *rootView = nil;
 
-@interface LKSplashScreen()
-
-@end
-
 @implementation LKSplashScreen
 
-RCT_EXPORT_MODULE(SplashScreen)
+RCT_EXPORT_MODULE()
 
 + (void)open:(RCTRootView *)v {
   rootView = v;

@@ -1,4 +1,4 @@
-package lightkits.splashcreen;
+package lightkits.splashscreen;
 
 import java.util.Arrays;
 import java.util.Collections;
@@ -10,10 +10,10 @@ import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.uimanager.ViewManager;
 import com.facebook.react.bridge.JavaScriptModule;
 
-public class LKSplashscreenPackage implements ReactPackage {
+public class LKSplashScreenPackage implements ReactPackage {
     @Override
     public List<NativeModule> createNativeModules(ReactApplicationContext reactContext) {
-        return Arrays.<NativeModule>asList(new LKSplashscreenModule(reactContext));
+        return Arrays.<NativeModule>asList(new LKSplashScreenModule(reactContext));
     }
 
     @Override
