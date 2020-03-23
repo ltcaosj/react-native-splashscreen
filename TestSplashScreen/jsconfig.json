@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@hooks/*": ["./src/hooks/*"],
+      "@hooks": ["./src/hooks"],
+      "@components/*": ["./src/components/*"],
+      "@components": ["./src/components"],
+      "@configuration/*": ["./src/configuration/*"],
+      "@configuration": ["./src/configuration"],
+      "@models/*": ["./src/models/*"],
+      "@models": ["./src/models"],
+      "@view-models/*": ["./src/view-models/*"],
+      "@view-models": ["./src/view-models"],
+      "@services/*": ["./src/services/*"],
+      "@services": ["./src/services"],
+      "@notification/*": ["./src/notification/*"],
+      "@notification": ["./src/notification"],
+      "@screens": ["./src/screens"],
+      "@screens/*": ["./src/screens/*"],
+      "@assets": ["./src/assets"],
+      "@assets/*": ["./src/assets/*"],
+      "@shared": ["./src/shared"],
+      "@shared/*": ["./src/shared/*"],
+      "@themes": ["./src/themes"],
+      "@themes/*": ["./src/themes/*"],
+      "@utils": ["./src/utils"],
+      "@utils/*": ["./src/utils/*"]
+    }
+  },
+  "exclude": ["node_modules"]
+}
