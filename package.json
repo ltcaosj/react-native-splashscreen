@@ -1,7 +1,7 @@
 {
   "name": "@react-native-lightkits/splashscreen",
   "title": "React Native Splash Screen",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "TODO",
   "main": "index.js",
   "scripts": {

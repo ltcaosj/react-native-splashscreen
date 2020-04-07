@@ -1,3 +1,11 @@
 .vscode
 yarn.lock
 Example
+
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
