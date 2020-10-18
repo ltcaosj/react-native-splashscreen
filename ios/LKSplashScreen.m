@@ -8,8 +8,11 @@ RCT_EXPORT_MODULE()
 
 + (void)open:(RCTRootView *)v {
   rootView = v;
-  
-  UIView * view = [[[NSBundle mainBundle] loadNibNamed:@"LaunchScreen" owner:self options:nil] objectAtIndex:0];
+
+    UIViewController *launchController;
+     launchController = [[UIStoryboard storyboardWithName:@"LaunchScreen" bundle:nil] instantiateInitialViewController];
+    
+    UIView * view = launchController.view;
   
   view.frame = rootView.bounds;
   
